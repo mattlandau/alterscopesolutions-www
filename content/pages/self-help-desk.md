@@ -2,13 +2,10 @@
 title: "Self Help Desk"
 date: 2023-01-15T23:16:17-05:00
 draft: false
+slug: "self-help-desk"
 ---
 
 # Self Help Desk (iOS Augmented Reality)
-
-Now available on the App Store!
-
-(https://apps.apple.com/us/app/self-help-desk/id1551052586)
 
 What if you could see your situation from a new perspectives? What advice would you give? With this augmented reality simulation, you don’t have to imagine; you can experience.
 
@@ -23,3 +20,5 @@ You can use this app to:
 - Try out difficult conversations
 - Listen from a new perspective
 - Give yourself guidance
+
+Now available on the [App Store](https://apps.apple.com/us/app/self-help-desk/id1551052586)!

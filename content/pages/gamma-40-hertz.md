@@ -2,6 +2,7 @@
 title: "Gamma 40 Hertz"
 date: 2023-01-15T23:19:31-05:00
 draft: false
+slug: "gamma-40-hertz"
 ---
 
 # Gamma 40 Hertz – iOS
@@ -15,4 +16,4 @@ Features:
 - 40 hertz haptic vibration
 - 40 hertz visual signal using your device’s flash
 
-Now available on the App Store!
+Now available on the [App Store](https://apps.apple.com/us/app/gamma-40-hertz/id6444579052)!

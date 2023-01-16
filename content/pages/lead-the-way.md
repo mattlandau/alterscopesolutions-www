@@ -2,6 +2,7 @@
 title: "Lead the Way"
 date: 2023-01-15T23:20:08-05:00
 draft: false
+slug: "lead-the-way"
 ---
 
 # Lead The Way (iOS AR)
@@ -12,4 +13,6 @@ With Lead The Way, you can see a virtual sign post right in front of you that po
 
 Lead The Way is perfect for exploring neighborhoods, finding your way around a new city, or even setting ambitious travel goals. Plus, with the ability to show your favorite locations, you can share your adventures and plans with friends and family.
 
-So why wait? Download Lead The Way today and start exploring the world around you like never before! (Coming Soon!)
+So why wait? Download Lead The Way today and start exploring the world around you like never before!
+
+Now available on the [App Store](https://apps.apple.com/us/app/gamma-40-hertz/id6444579052)!

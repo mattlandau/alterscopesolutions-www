@@ -1,10 +1,9 @@
 ---
-title: "Proximity Sense Ar"
+title: "Proximity Sense AR"
 date: 2023-01-15T23:20:42-05:00
 draft: false
+slug: "proximity-sense-ar"
 ---
-
-Proximity Sense AR
 
 Experience the world in a whole new way with Proximity Sense AR!
 
@@ -15,3 +14,5 @@ Proximity Sense AR is perfect for exploring an environment by touch alone, and i
 So why wait? Download Proximity Sense AR today and start exploring the world around you in a whole new way!
 
 Note, for technical reference, the vibration frequency scales down from 100 Hz to the inverse of the third power of the distance out to 4 meters, intensity is proportional to rate of change of distance, and vertical surfaces (e.g. walls) have a 4 Hz pattern overlaid on the main pattern in order to provide category information.
+
+Now available on the [App Store](https://apps.apple.com/us/app/proximity-sense-ar/id1662224416)!
