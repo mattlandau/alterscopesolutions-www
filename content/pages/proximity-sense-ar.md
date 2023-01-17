@@ -3,6 +3,8 @@ title: "Proximity Sense AR"
 date: 2023-01-15T23:20:42-05:00
 draft: false
 slug: "proximity-sense-ar"
+aliases:
+  - /proximity-sense-ar
 ---
 
 Experience the world in a whole new way with Proximity Sense AR!

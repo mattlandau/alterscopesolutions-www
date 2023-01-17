@@ -3,6 +3,8 @@ title: "Purrfect App"
 date: 2023-01-15T23:18:48-05:00
 draft: false
 slug: "purrfect-app"
+aliases:
+  - /purrfect-app
 ---
 
 # Perfect App – iOS

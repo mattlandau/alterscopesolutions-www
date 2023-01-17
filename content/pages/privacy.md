@@ -3,6 +3,8 @@ title: "Privacy"
 date: 2023-01-15T23:21:14-05:00
 draft: false
 slug: "privacy"
+aliases:
+  - /privacy
 ---
 
 # Privacy Policy

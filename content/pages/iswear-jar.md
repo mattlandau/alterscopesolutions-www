@@ -3,6 +3,8 @@ title: "iSwear Jar"
 date: 2023-01-16T13:44:38-05:00
 draft: false
 slug: "iswear-jar"
+aliases:
+  - /iswear-jar
 ---
 
 The iSwear Jar app gives you the power to create or eliminate any habit. Unlike ordinary habit trackers, there’s a real financial penalty for not following through. If you honestly intend to change, the penalty for each slip-up is a voluntary in-app purchase. It’s a swear jar for any habit!

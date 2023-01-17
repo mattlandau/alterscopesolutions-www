@@ -3,6 +3,8 @@ title: "Self Help Desk"
 date: 2023-01-15T23:16:17-05:00
 draft: false
 slug: "self-help-desk"
+aliases:
+  - /self-help-desk
 ---
 
 # Self Help Desk (iOS Augmented Reality)

@@ -3,9 +3,9 @@ title: "Lead the Way"
 date: 2023-01-15T23:20:08-05:00
 draft: false
 slug: "lead-the-way"
+aliases:
+  - /lead-the-way
 ---
-
-# Lead The Way (iOS AR)
 
 Looking for a fun and interactive way to navigate your way to far off or nearby places? Look no further than Lead The Way!
 
