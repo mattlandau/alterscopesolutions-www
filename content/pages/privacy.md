@@ -5,6 +5,7 @@ draft: false
 slug: "privacy"
 aliases:
   - /privacy
+  - /privacy-policy
 ---
 
 # Privacy Policy
