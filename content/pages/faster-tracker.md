@@ -1,6 +1,6 @@
 ---
 title: "Faster Tracker"
-date: 2023-03-28T23:20:08-05:00
+date: 2023-03-27T23:10:34-04:00
 draft: false
 slug: "faster-tracker"
 aliases:
