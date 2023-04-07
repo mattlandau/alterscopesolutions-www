@@ -1,8 +1,8 @@
 ---
-title: "Faster Tracker"
+title: "Simple Trend Tracker"
 date: 2023-03-27T23:10:34-04:00
 draft: false
-slug: "faster-tracker"
+slug: "simple-trend-tracker"
 aliases:
   - /faster-tracker
   - /simple-trend-tracker
