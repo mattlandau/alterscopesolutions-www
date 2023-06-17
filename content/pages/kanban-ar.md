@@ -22,3 +22,5 @@ Key Features:
 4. Cross-Platform Compatibility: Kanban AR seamlessly syncs across devices, allowing you to manage tasks on your iPhone and iPad. Your data stays securely backed up and accessible from anywhere.
 
 Unlock your potential with Kanban AR—a groundbreaking app spatial that brings the power of augmented reality to your task management journey. Experience a new level of efficiency, collaboration, and organization. Download Kanban AR now and embrace the future of productivity!
+
+Now available on the [App Store](https://apps.apple.com/us/app/kanban-ar/id6449599315)
