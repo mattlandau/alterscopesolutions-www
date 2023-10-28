@@ -8,6 +8,8 @@ aliases:
   - /proximity-sense-ar
 ---
 
+![Proximity Sense AR icon](/images/proximity-sense-ar-icon.png)
+
 Experience the world in a whole new way with Proximity Sense AR!
 
 Our innovative app uses augmented reality technology to sense the distance to objects around you and translate that information into a pattern of vibrations. Simply point your phone in front of you and let the vibrations guide you. The closer you get to an object, the more intense the vibrations become.

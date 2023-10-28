@@ -8,7 +8,7 @@ aliases:
   - /gradual-nightlight
 ---
 
-![Gradual Nightlight icon](/images/gradual-nightlight-icon-1-1.jpg)
+![Gradual Nightlight icon](/images/gradual-nightlight-icon.jpg)
 
 Transform bedtime for your toddlers with our app! As a parent, I understand the bedtime challenge, which is why I created this app to make it easier for all of us. Use your phone as a reading light during story time and a nightlight for bedtime. What sets our app apart is its gradual screen dimming, ensuring a smooth transition from reading to sleep.
 

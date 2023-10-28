@@ -1,5 +1,0 @@
-baseURL = 'https://alterscopesolutions.com/'
-languageCode = 'en-us'
-title = 'Alterscope Solutions LLC'
-theme = 'ananke'
-paginate = 20

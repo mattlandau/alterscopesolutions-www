@@ -8,6 +8,8 @@ aliases:
   - /gamma-40-hertz
 ---
 
+![Forty Appicon](/images/forty-app-icon.png)
+
 The Gamma 40 Hertz app gives you access to a quick brain boost. Some recent research suggests that 40 hertz gamma brain waves decline with age and that reversing the decline can be helpful. This app stimulates 40 hertz gamma waves through light, sound, and touch.
 
 Features:

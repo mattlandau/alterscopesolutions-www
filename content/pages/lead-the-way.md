@@ -8,6 +8,8 @@ aliases:
   - /lead-the-way
 ---
 
+![Signpost AR icon](/images/signpost-ar-icon.png)
+
 Looking for a fun and interactive way to navigate your way to far off or nearby places? Look no further than Lead The Way!
 
 With Lead The Way, you can see a virtual sign post right in front of you that points you in the direction of your chosen location and displays the distance to your destination. Simply enter your own custom locations, and watch as the sign post appears in your real-world environment.

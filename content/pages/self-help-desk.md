@@ -2,12 +2,11 @@
 title: "Self Help Desk"
 date: 2023-01-15T23:16:17-05:00
 draft: false
+tags: ["iOS", "AR", "Spatial Computing"]
 slug: "self-help-desk"
 aliases:
   - /self-help-desk
 ---
-
-# Self Help Desk (iOS Augmented Reality)
 
 What if you could see your situation from a new perspectives? What advice would you give? With this augmented reality simulation, you don’t have to imagine; you can experience.
 

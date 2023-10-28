@@ -8,7 +8,7 @@ aliases:
   - /the-alterscope
 ---
 
-# The Alterscope (Oculus Go Virtual Reality)
+![The Alterscope icon](/images/the-alterscope-icon.png)
 
 In this simulation, you begin by selecting a conversation partner. The conversation starts when you record a question or statement. You are then transported into the perspective of your conversation partner, where you can listen and respond to what was said. Continue the conversation through as many rounds a you like, swapping perspectives each time. You can even take on a completely new perspective by observing the conversation from a third person point of view.
 

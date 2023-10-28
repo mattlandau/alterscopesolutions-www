@@ -8,7 +8,7 @@ aliases:
   - /the-um-detector
 ---
 
-# The Um Detector (iOS / iPadOS)
+![The Um Detector icon](/images/the-um-detector-icon.png)
 
 Do you want to improve your speaking? Do find yourself yourself overusing filler words? This app will help you break the habit and speak more confidently.
 

@@ -8,6 +8,8 @@ aliases:
   - /kanban-ar
 ---
 
+![Kanban AR icon](/images/kanban-ar-icon.png)
+
 Introducing Kanban AR, the ultimate productivity app that revolutionizes the way you manage tasks and projects! With cutting-edge augmented reality technology, this app brings your kanban board to life, making task management a truly immersive experience.
 
 Effortlessly organize your workflow and boost your productivity using the power of spatial computing. Visualize your tasks, create boards, and track progress with a simple swipe or a tap. Kanban AR combines the flexibility of a digital platform with the intuitive nature of a physical kanban board, giving you the best of both worlds.

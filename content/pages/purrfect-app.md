@@ -8,7 +8,7 @@ aliases:
   - /purrfect-app
 ---
 
-# Perfect App – iOS
+![Purrfect App icon](/images/purrfect-app-icon.png)
 
 The Purrfect App will bring you instant relaxation using your phone’s vibration motor to simulate a purring cat. Sit back, relax, and enjoy a gentle purr.
 
