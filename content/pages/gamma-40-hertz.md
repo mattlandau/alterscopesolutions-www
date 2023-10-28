@@ -3,6 +3,7 @@ title: "Gamma 40 Hertz"
 date: 2023-01-15T23:19:31-05:00
 draft: false
 slug: "gamma-40-hertz"
+tags: ["iOS", "Self Improvement"]
 aliases:
   - /gamma-40-hertz
 ---

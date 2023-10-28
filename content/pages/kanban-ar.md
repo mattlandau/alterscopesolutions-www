@@ -2,6 +2,7 @@
 title: "Kanban AR"
 date: 2023-06-06T22:51:09-04:00
 draft: false
+tags: ["iOS", "AR", "Spatial Computing"]
 slug: "kanban-ar"
 aliases:
   - /kanban-ar

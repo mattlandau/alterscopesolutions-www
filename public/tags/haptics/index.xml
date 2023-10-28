@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haptics on Alterscope Solutions LLC</title>
+    <link>https://alterscopesolutions.com/tags/haptics/</link>
+    <description>Recent content in Haptics on Alterscope Solutions LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jan 2023 23:20:42 -0500</lastBuildDate><atom:link href="https://alterscopesolutions.com/tags/haptics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proximity Sense AR</title>
+      <link>https://alterscopesolutions.com/pages/proximity-sense-ar/</link>
+      <pubDate>Sun, 15 Jan 2023 23:20:42 -0500</pubDate>
+      
+      <guid>https://alterscopesolutions.com/pages/proximity-sense-ar/</guid>
+      <description>Experience the world in a whole new way with Proximity Sense AR!
+Our innovative app uses augmented reality technology to sense the distance to objects around you and translate that information into a pattern of vibrations. Simply point your phone in front of you and let the vibrations guide you. The closer you get to an object, the more intense the vibrations become.
+Proximity Sense AR is perfect for exploring an environment by touch alone, and if your device has a LIDAR sensor, it can even be used to navigate in the dark.</description>
+    </item>
+    
+  </channel>
+</rss>

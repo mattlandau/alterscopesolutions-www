@@ -3,6 +3,7 @@ title: "The Alterscope"
 date: 2023-01-15T23:10:46-05:00
 draft: false
 slug: "the-alterscope"
+tags: ["Oculus Go", "VR", "Self Improvement"]
 aliases:
   - /the-alterscope
 ---

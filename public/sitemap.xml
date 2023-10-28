@@ -2,17 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alterscopesolutions.com/pages/</loc>
+    <lastmod>2023-10-11T14:12:06-04:00</lastmod>
+  </url><url>
     <loc>https://alterscopesolutions.com/</loc>
     <lastmod>2023-10-11T14:12:06-04:00</lastmod>
   </url><url>
     <loc>https://alterscopesolutions.com/pages/gradual-nightlight/</loc>
     <lastmod>2023-10-11T14:12:06-04:00</lastmod>
   </url><url>
-    <loc>https://alterscopesolutions.com/pages/</loc>
+    <loc>https://alterscopesolutions.com/tags/ios/</loc>
     <lastmod>2023-10-11T14:12:06-04:00</lastmod>
+  </url><url>
+    <loc>https://alterscopesolutions.com/tags/parenting/</loc>
+    <lastmod>2023-10-11T14:12:06-04:00</lastmod>
+  </url><url>
+    <loc>https://alterscopesolutions.com/tags/</loc>
+    <lastmod>2023-10-11T14:12:06-04:00</lastmod>
+  </url><url>
+    <loc>https://alterscopesolutions.com/tags/ar/</loc>
+    <lastmod>2023-06-06T22:51:09-04:00</lastmod>
   </url><url>
     <loc>https://alterscopesolutions.com/pages/kanban-ar/</loc>
     <lastmod>2023-06-06T22:51:09-04:00</lastmod>
+  </url><url>
+    <loc>https://alterscopesolutions.com/tags/spatial-computing/</loc>
+    <lastmod>2023-06-06T22:51:09-04:00</lastmod>
+  </url><url>
+    <loc>https://alterscopesolutions.com/tags/self-improvement/</loc>
+    <lastmod>2023-03-27T23:10:34-04:00</lastmod>
   </url><url>
     <loc>https://alterscopesolutions.com/pages/simple-trend-tracker/</loc>
     <lastmod>2023-03-27T23:10:34-04:00</lastmod>
@@ -26,8 +44,17 @@
     <loc>https://alterscopesolutions.com/pages/about-me/</loc>
     <lastmod>2023-01-15T23:22:20-05:00</lastmod>
   </url><url>
+    <loc>https://alterscopesolutions.com/tags/personal/</loc>
+    <lastmod>2023-01-15T23:22:20-05:00</lastmod>
+  </url><url>
+    <loc>https://alterscopesolutions.com/tags/professional/</loc>
+    <lastmod>2023-01-15T23:22:20-05:00</lastmod>
+  </url><url>
     <loc>https://alterscopesolutions.com/pages/privacy/</loc>
     <lastmod>2023-01-15T23:21:14-05:00</lastmod>
+  </url><url>
+    <loc>https://alterscopesolutions.com/tags/haptics/</loc>
+    <lastmod>2023-01-15T23:20:42-05:00</lastmod>
   </url><url>
     <loc>https://alterscopesolutions.com/pages/proximity-sense-ar/</loc>
     <lastmod>2023-01-15T23:20:42-05:00</lastmod>
@@ -47,11 +74,15 @@
     <loc>https://alterscopesolutions.com/pages/self-help-desk/</loc>
     <lastmod>2023-01-15T23:16:17-05:00</lastmod>
   </url><url>
+    <loc>https://alterscopesolutions.com/tags/oculus-go/</loc>
+    <lastmod>2023-01-15T23:10:46-05:00</lastmod>
+  </url><url>
     <loc>https://alterscopesolutions.com/pages/the-alterscope/</loc>
     <lastmod>2023-01-15T23:10:46-05:00</lastmod>
   </url><url>
-    <loc>https://alterscopesolutions.com/categories/</loc>
+    <loc>https://alterscopesolutions.com/tags/vr/</loc>
+    <lastmod>2023-01-15T23:10:46-05:00</lastmod>
   </url><url>
-    <loc>https://alterscopesolutions.com/tags/</loc>
+    <loc>https://alterscopesolutions.com/categories/</loc>
   </url>
 </urlset>

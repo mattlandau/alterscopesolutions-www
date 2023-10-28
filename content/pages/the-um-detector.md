@@ -2,6 +2,7 @@
 title: "The Um Detector"
 date: 2023-01-15T23:17:51-05:00
 draft: false
+tags: ["iOS", "Self Improvement"]
 slug: "the-um-detector"
 aliases:
   - /the-um-detector
