@@ -8,6 +8,8 @@ aliases:
   - /self-help-desk
 ---
 
+![Self Help Desk icon](/images/self-help-desk-icon.png)
+
 What if you could see your situation from a new perspectives? What advice would you give? With this augmented reality simulation, you don’t have to imagine; you can experience.
 
 Explore the benefits of a thoughtful and private conversation with a close ally: yourself. Continue the conversation through as many rounds a you like, swapping perspectives each time. You can even take a completely new perspective by replaying the conversation from a third person point of view.
