@@ -4,6 +4,7 @@ date: 2023-01-16T13:44:38-05:00
 draft: false
 tags: ["iOS", "Self Improvement"]
 slug: "iswear-jar"
+type: page
 aliases:
   - /iswear-jar
 ---

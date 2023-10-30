@@ -1,0 +1,16 @@
+baseURL: "https://alterscopesolutions.com/"
+languageCode: "en-us"
+title: "Alterscope Solutions LLC"
+theme: "ananke"
+paginate: 20
+
+params:
+  ananke_socials:
+    - name: facebook
+      label: Facebook
+      follow: false
+    - name: github
+      url: https://github.com/mattlandau/
+    - name: linkedin
+      url: https://www.linkedin.com/in/mattlandaumlis/
+      follow: true

@@ -1,0 +1,7 @@
+<ul>
+{{ range $.Site.Data.apps.myapps }}
+<li>
+<a href="{{.link}}">{{.name}}</a>
+</li>
+{{ end }}
+</ul>

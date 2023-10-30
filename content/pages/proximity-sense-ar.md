@@ -4,6 +4,7 @@ date: 2023-01-15T23:20:42-05:00
 draft: false
 tags: ["iOS", "AR", "Spatial Computing", "Haptics"]
 slug: "proximity-sense-ar"
+type: page
 aliases:
   - /proximity-sense-ar
 ---

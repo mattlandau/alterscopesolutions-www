@@ -1,18 +1,20 @@
 ---
-title: "Privacy"
+title: "Privacy Policy"
 date: 2023-01-15T23:21:14-05:00
 draft: false
 slug: "privacy"
+type: page
 aliases:
   - /privacy
   - /privacy-policy
+menu:
+  main:
+    weight: 1
 ---
-
-# Privacy Policy
 
 ## Information Collection, Use, and Sharing:
 
-The content of your sessions within Alterscope Solutions software (i.e. microphone data, positional/rotational data, and/or camera data) reside only on your local device. A temporary copy of the data is stored only when Alterscope Solutions software is in use, and it is destroyed when you exit Alterscope Solutions software.
+The content of your sessions within Alterscope Solutions software (i.e. microphone data, positional/rotational data, camera data, etc.) reside only on your local device. A temporary copy of the data is stored only when Alterscope Solutions software is in use, and it is destroyed when you exit Alterscope Solutions software.
 
 We will not sell or rent any information collected through the use of Alterscope Solutions software or website to anyone.
 

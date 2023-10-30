@@ -4,6 +4,7 @@ date: 2023-01-15T23:16:17-05:00
 draft: false
 tags: ["iOS", "AR", "Spatial Computing"]
 slug: "self-help-desk"
+type: page
 aliases:
   - /self-help-desk
 ---

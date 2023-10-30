@@ -1,0 +1,23 @@
+myapps:
+  - name: Gradual Nightlight
+    link: /gradual-nightlight
+  - name: Kanban AR
+    link: /kanban-ar
+  - name: Simple Trend Tracker
+    link: /simple-trend-tracker
+  - name: Purrfect App
+    link: /purrfect-app
+  - name: Gamma 40 Hertz
+    link: /gamma-40-hertz
+  - name: Proximity Sense AR
+    link: /proximity-sense-ar
+  - name: Lead The Way
+    link: /lead-the-way
+  - name: iSwear Jar
+    link: /iswear-jar
+  - name: The Um Detector
+    link: /the-um-detector
+  - name: Self Help Desk
+    link: /self-help-desk
+  - name: The Alterscope
+    link: /the-alterscope

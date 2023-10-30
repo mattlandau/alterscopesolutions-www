@@ -4,6 +4,7 @@ date: 2023-10-11T14:12:06-04:00
 draft: false
 slug: "gradual-nightlight"
 tags: ["iOS", "Parenting"]
+type: page
 aliases:
   - /gradual-nightlight
 ---
