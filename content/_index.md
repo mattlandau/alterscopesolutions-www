@@ -1,9 +1,9 @@
 ---
-title: "Alterscope Solutions"
+title: "Hello, World!"
 featured_image: "/images/overview-of-apps-3.png"
 draft: false
 ---
 
-**Unique apps that make life easier and more interesting.**
+**One-of-a-kind apps that make life easier and/or more interesting.**
 
 {{< my-apps-p >}}

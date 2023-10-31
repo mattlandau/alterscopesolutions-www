@@ -20,9 +20,6 @@
   <header>
     <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
       {{ partial "site-navigation.html" . }}
-      {{ if .Param "isapp" }}
-        <meta name="apple-itunes-app" content="app-id={{ .Params.appid }}">
-      {{ end }}
     </div>
   </header>
 {{ end }}
