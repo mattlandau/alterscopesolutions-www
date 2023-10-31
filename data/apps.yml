@@ -1,6 +1,7 @@
 myapps:
   - name: Gradual Nightlight
     link: /gradual-nightlight
+    id: 6468366809
   - name: Kanban AR
     link: /kanban-ar
   - name: Simple Trend Tracker

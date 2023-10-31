@@ -4,6 +4,7 @@ date: 2023-03-27T23:10:34-04:00
 draft: false
 slug: "simple-trend-tracker"
 tags: ["iOS", "Self Improvement"]
+type: page
 
 aliases:
   - /faster-tracker
