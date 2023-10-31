@@ -5,6 +5,7 @@ draft: false
 slug: "the-alterscope"
 tags: ["Oculus Go", "VR", "Self Improvement"]
 type: page
+isapp: false
 aliases:
   - /the-alterscope
 ---

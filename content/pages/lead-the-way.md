@@ -5,6 +5,8 @@ draft: false
 slug: "lead-the-way"
 tags: ["iOS", "AR", "Spatial Computing"]
 type: page
+appid: 6444579052
+isapp: true
 aliases:
   - /lead-the-way
 ---

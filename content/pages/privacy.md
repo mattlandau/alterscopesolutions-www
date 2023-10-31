@@ -4,6 +4,7 @@ date: 2023-01-15T23:21:14-05:00
 draft: false
 slug: "privacy"
 type: page
+isapp: false
 aliases:
   - /privacy
   - /privacy-policy

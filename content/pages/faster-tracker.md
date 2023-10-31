@@ -5,7 +5,8 @@ draft: false
 slug: "simple-trend-tracker"
 tags: ["iOS", "Self Improvement"]
 type: page
-
+appid: 6446156353
+isapp: true
 aliases:
   - /faster-tracker
   - /simple-trend-tracker

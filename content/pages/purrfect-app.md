@@ -5,6 +5,8 @@ draft: false
 slug: "purrfect-app"
 tags: ["iOS"]
 type: page
+appid: 6444394341
+isapp: true
 aliases:
   - /purrfect-app
 ---

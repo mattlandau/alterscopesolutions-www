@@ -5,6 +5,8 @@ draft: false
 tags: ["iOS", "Self Improvement"]
 slug: "iswear-jar"
 type: page
+appid: 1633852599
+isapp: true
 aliases:
   - /iswear-jar
 ---

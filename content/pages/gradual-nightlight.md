@@ -6,6 +6,7 @@ slug: "gradual-nightlight"
 tags: ["iOS", "Parenting"]
 type: page
 appid: 6468366809
+isapp: true
 aliases:
   - /gradual-nightlight
 ---

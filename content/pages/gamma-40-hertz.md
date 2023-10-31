@@ -5,6 +5,8 @@ draft: false
 slug: "gamma-40-hertz"
 tags: ["iOS", "Self Improvement"]
 type: page
+appid: 6444579052
+isapp: true
 aliases:
   - /gamma-40-hertz
 ---

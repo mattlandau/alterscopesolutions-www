@@ -5,6 +5,8 @@ draft: false
 tags: ["iOS", "Self Improvement"]
 slug: "the-um-detector"
 type: page
+appid: 1566958588
+isapp: true
 aliases:
   - /the-um-detector
 ---

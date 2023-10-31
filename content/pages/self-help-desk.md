@@ -5,6 +5,8 @@ draft: false
 tags: ["iOS", "AR", "Spatial Computing"]
 slug: "self-help-desk"
 type: page
+appid: 1551052586
+isapp: true
 aliases:
   - /self-help-desk
 ---

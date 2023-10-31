@@ -5,6 +5,8 @@ draft: false
 tags: ["iOS", "AR", "Spatial Computing"]
 slug: "kanban-ar"
 type: page
+appid: 6449599315
+isapp: true
 aliases:
   - /kanban-ar
 ---

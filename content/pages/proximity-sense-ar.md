@@ -5,6 +5,8 @@ draft: false
 tags: ["iOS", "AR", "Spatial Computing", "Haptics"]
 slug: "proximity-sense-ar"
 type: page
+appid: 1662224416
+isapp: true
 aliases:
   - /proximity-sense-ar
 ---
