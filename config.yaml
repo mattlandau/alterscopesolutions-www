@@ -14,3 +14,5 @@ params:
     - name: linkedin
       url: https://www.linkedin.com/in/mattlandaumlis/
       follow: true
+params:
+  favicon: "favicon.ico"
