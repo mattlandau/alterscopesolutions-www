@@ -5,7 +5,7 @@
 <a href='{{ "/tags/" }}{{ . | urlize }}'
     class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif bg-light-gray">{{ . }}</a>
 {{ end }}
-<p>{{ .Summary }}{{ if .Truncated }}...{{end}}</p>
+<p>{{ .Summary | safeHTML }}{{ if .Truncated }}...{{end}}</p>
 {{ if .Truncated }}
 <p><a href="{{ .RelPermalink }}">Read more</a></p>
 {{ end }}
