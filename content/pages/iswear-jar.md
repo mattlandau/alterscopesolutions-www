@@ -2,14 +2,16 @@
 title: "iSwear Jar"
 date: 2023-01-16T13:44:38-05:00
 draft: false
-tags: ["iOS", "Self Improvement"]
-slug: "iswear-jar"
+tags: ["iOS", "Self Improvement", "My Most Misunderstood App"]
+url: /iswear-jar
 type: page
 appid: 1633852599
 isapp: true
 aliases:
   - /iswear-jar
 ---
+
+{{< tags >}}
 
 ![iSwear Jar icon](/images/iswear-jar-icon.png)
 

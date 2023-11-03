@@ -2,14 +2,16 @@
 title: "Gradual Nightlight"
 date: 2023-10-11T14:12:06-04:00
 draft: false
-slug: "gradual-nightlight"
-tags: ["iOS", "Parenting"]
-type: page
+url: /gradual-nightlight
+tags: ["iOS", "Parenting", "My Most Beautiful App"]
 appid: 6468366809
+type: page
 isapp: true
 aliases:
   - /gradual-nightlight
 ---
+
+{{< tags >}}
 
 ![Gradual Nightlight icon](/images/gradual-nightlight-icon.jpg)
 

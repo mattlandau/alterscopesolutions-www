@@ -1,5 +1,10 @@
-{{ range $.Site.Data.apps.myapps }}
-<p>
-<a href="{{.link}}">{{.name}}</a>
+{{ range where .Site.RegularPages ".Params.isapp" true }}
+<hr>
+<h2>
+<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+</h2>
+{{ range .Params.tags }}
+<a href='{{ "/tags/" }}{{ . | urlize }}' class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif bg-light-gray">{{ . }}</a>
+{{ end }}
 </p>
 {{ end }}

@@ -2,14 +2,16 @@
 title: "Self Help Desk"
 date: 2023-01-15T23:16:17-05:00
 draft: false
-tags: ["iOS", "AR", "Spatial Computing"]
-slug: "self-help-desk"
+tags: ["iOS", "AR", "Spatial Computing", "My Most Complicated App"]
+url: /self-help-desk
 type: page
 appid: 1551052586
 isapp: true
 aliases:
   - /self-help-desk
 ---
+
+{{< tags >}}
 
 ![Self Help Desk icon](/images/self-help-desk-icon.png)
 

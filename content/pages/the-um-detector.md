@@ -2,14 +2,16 @@
 title: "The Um Detector"
 date: 2023-01-15T23:17:51-05:00
 draft: false
-tags: ["iOS", "Self Improvement"]
-slug: "the-um-detector"
+tags: ["iOS", "Self Improvement", "My Most Useful App"]
+url: /the-um-detector
 type: page
 appid: 1566958588
 isapp: true
 aliases:
   - /the-um-detector
 ---
+
+{{< tags >}}
 
 ![The Um Detector icon](/images/the-um-detector-icon.png)
 

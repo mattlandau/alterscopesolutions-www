@@ -2,14 +2,16 @@
 title: "Purrfect App"
 date: 2023-01-15T23:18:48-05:00
 draft: false
-slug: "purrfect-app"
-tags: ["iOS"]
+url: /purrfect-app
+tags: ["iOS", "My Most Fun App"]
 type: page
 appid: 6444394341
 isapp: true
 aliases:
   - /purrfect-app
 ---
+
+{{< tags >}}
 
 ![Purrfect App icon](/images/purrfect-app-icon.png)
 

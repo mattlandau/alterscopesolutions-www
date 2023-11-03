@@ -2,14 +2,16 @@
 title: "Gamma 40 Hertz"
 date: 2023-01-15T23:19:31-05:00
 draft: false
-slug: "gamma-40-hertz"
-tags: ["iOS", "Self Improvement"]
+url: /gamma-40-hertz
+tags: ["iOS", "Self Improvement", "My Most Healthful App"]
 type: page
 appid: 6444579052
 isapp: true
 aliases:
   - /gamma-40-hertz
 ---
+
+{{< tags >}}
 
 ![Forty Appicon](/images/forty-app-icon.png)
 

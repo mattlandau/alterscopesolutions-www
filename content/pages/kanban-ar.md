@@ -2,14 +2,16 @@
 title: "Kanban AR"
 date: 2023-06-06T22:51:09-04:00
 draft: false
-tags: ["iOS", "AR", "Spatial Computing"]
-slug: "kanban-ar"
+tags: ["iOS", "AR", "Spatial Computing", "My App With The Most Potential"]
+url: /kanban-ar
 type: page
 appid: 6449599315
 isapp: true
 aliases:
   - /kanban-ar
 ---
+
+{{< tags >}}
 
 ![Kanban AR icon](/images/kanban-ar-icon.png)
 

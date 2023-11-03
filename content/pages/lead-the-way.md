@@ -2,14 +2,16 @@
 title: "Lead the Way"
 date: 2023-01-15T23:20:08-05:00
 draft: false
-slug: "lead-the-way"
-tags: ["iOS", "AR", "Spatial Computing"]
+url: /lead-the-way
+tags: ["iOS", "AR", "Spatial Computing", "My Most Single Use App"]
 type: page
 appid: 6444579052
 isapp: true
 aliases:
   - /lead-the-way
 ---
+
+{{< tags >}}
 
 ![Signpost AR icon](/images/signpost-ar-icon.png)
 

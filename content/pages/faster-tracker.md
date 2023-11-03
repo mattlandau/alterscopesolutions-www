@@ -2,8 +2,8 @@
 title: "Simple Trend Tracker"
 date: 2023-03-27T23:10:34-04:00
 draft: false
-slug: "simple-trend-tracker"
-tags: ["iOS", "Self Improvement"]
+url: /simple-trend-tracker
+tags: ["iOS", "Self Improvement", "My Most Generic App"]
 type: page
 appid: 6446156353
 isapp: true
@@ -11,6 +11,8 @@ aliases:
   - /faster-tracker
   - /simple-trend-tracker
 ---
+
+{{< tags >}}
 
 ![Faster Tracker icon](/images/faster-tracker-icon.png)
 
