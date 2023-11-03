@@ -1,10 +1,6 @@
 {{ range where .Site.RegularPages ".Params.isapp" true }}
 <div class="tl shadow-1 pa4 mt4 br4">
 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
-{{ range .Params.tags }}
-<a href='{{ "/tags/" }}{{ . | urlize }}'
-    class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif bg-light-gray">{{ . }}</a>
-{{ end }}
 <p>{{ .Summary }}{{ if .Truncated }}...{{end}}</p>
 {{ if .Truncated }}
 <p><a href="{{ .RelPermalink }}">Read more</a></p>
