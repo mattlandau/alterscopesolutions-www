@@ -5,7 +5,7 @@ draft: false
 url: /lead-the-way
 tags: ["iOS", "AR", "Spatial Computing", "My Most Single Use App"]
 type: page
-appid: 6444579052
+appid: 6444816102
 isapp: true
 aliases:
   - /lead-the-way
@@ -23,4 +23,4 @@ Lead The Way is perfect for exploring neighborhoods, finding your way around a n
 
 So why wait? Download Lead The Way today and start exploring the world around you like never before!
 
-Now available on the [App Store](https://apps.apple.com/us/app/gamma-40-hertz/id6444579052)!
+Now available on the [App Store](https://apps.apple.com/us/app/gamma-40-hertz/id6444816102)!
