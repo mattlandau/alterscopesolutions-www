@@ -6,6 +6,7 @@ url: /purrfect-app
 tags: ["iOS", "My Most Fun App"]
 type: page
 appid: 6444394341
+summary: The Purrfect App will bring you instant relaxation using your phone’s vibration motor to simulate a purring cat. Sit back, relax, and enjoy a gentle purr…
 isapp: true
 aliases:
   - /purrfect-app

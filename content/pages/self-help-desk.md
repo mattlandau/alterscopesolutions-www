@@ -6,6 +6,7 @@ tags: ["iOS", "AR", "Spatial Computing", "My Most Complicated App"]
 url: /self-help-desk
 type: page
 appid: 1551052586
+summary: What if you could see your situation from a new perspectives? What advice would you give? With this augmented reality simulation, you don’t have to imagine; you can experience. Explore the benefits of a thoughtful and private conversation…
 isapp: true
 aliases:
   - /self-help-desk

@@ -6,6 +6,7 @@ url: /lead-the-way
 tags: ["iOS", "AR", "Spatial Computing", "My Most Single Use App"]
 type: page
 appid: 6444816102
+summary: Looking for a fun and interactive way to navigate your way to far off or nearby places? Look no further than Lead The Way! With Lead The Way, you can see a virtual sign post right in front of you that points you in the direction of your chosen location and displays the distance to your destination…
 isapp: true
 aliases:
   - /lead-the-way

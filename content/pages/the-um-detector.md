@@ -7,6 +7,7 @@ url: /the-um-detector
 type: page
 appid: 1566958588
 isapp: true
+summary: Do you want to improve your speaking? Do find yourself yourself overusing filler words? This app will help you break the habit and speak more confidently. The Um Detector listens for when you say any these words…
 aliases:
   - /the-um-detector
 ---

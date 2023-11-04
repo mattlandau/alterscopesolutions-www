@@ -7,6 +7,7 @@ url: /proximity-sense-ar
 type: page
 appid: 1662224416
 isapp: true
+summary: Experience the world in a whole new way with Proximity Sense AR!Our innovative app uses augmented reality technology to sense the distance to objects around you and translate that information into a pattern of vibrations. Simply point your phone in front of you and let the vibrations guide you…
 aliases:
   - /proximity-sense-ar
 ---

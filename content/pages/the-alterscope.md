@@ -6,6 +6,7 @@ url: /the-alterscope
 tags: ["Oculus Go", "VR", "Self Improvement", "My Most Thought Provoking App"]
 type: page
 isapp: true
+summary: In this simulation, you begin by selecting a conversation partner. The conversation starts when you record a question or statement. You are then transported into the perspective of your conversation partner, where you can listen and respond to what was said. Continue the conversation…
 aliases:
   - /the-alterscope
 ---

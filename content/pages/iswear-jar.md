@@ -5,6 +5,7 @@ draft: false
 tags: ["iOS", "Self Improvement", "My Most Misunderstood App"]
 url: /iswear-jar
 type: page
+summary: The iSwear Jar gives you the power to create or destroy any habit. Simply imagine a dollar bill being thinly sliced by a paper shredder, turning cool cash into green slivers... Then imagine that dollar bill was yours, and that you surrendered it as a penalty for slipping up…
 appid: 1633852599
 isapp: true
 aliases:

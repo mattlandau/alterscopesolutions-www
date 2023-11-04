@@ -7,6 +7,7 @@ tags: ["iOS", "Self Improvement", "My Most Generic App"]
 type: page
 appid: 6446156353
 isapp: true
+summary: Easily record the numbers that matter to you and quickly spot trends over time. Our app allows you to track data, such as calories, minutes of activity, hours with a client, and much more. And the values are easy to see on a dynamically updating chart…
 aliases:
   - /faster-tracker
   - /simple-trend-tracker

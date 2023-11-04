@@ -6,6 +6,7 @@ tags: ["iOS", "AR", "Spatial Computing", "My App With The Most Potential"]
 url: /kanban-ar
 type: page
 appid: 6449599315
+summary: Introducing Kanban AR, the ultimate productivity app that revolutionizes the way you manage tasks and projects! With cutting-edge augmented reality technology, this app brings your kanban board to life, making task management a truly immersive experience…
 isapp: true
 aliases:
   - /kanban-ar
