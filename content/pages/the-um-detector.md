@@ -2,7 +2,7 @@
 title: "The Um Detector"
 date: 2023-01-15T23:17:51-05:00
 draft: false
-tags: ["iOS", "Self Improvement", "My Most Useful App"]
+tags: ["iOS", "Self Improvement", "Our Most Useful App"]
 url: /the-um-detector
 type: page
 appid: 1566958588

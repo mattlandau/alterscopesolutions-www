@@ -2,7 +2,7 @@
 title: "Self Help Desk"
 date: 2023-01-15T23:16:17-05:00
 draft: false
-tags: ["iOS", "AR", "Spatial Computing", "My Most Complicated App"]
+tags: ["iOS", "AR", "Spatial Computing", "Our Most Complex App"]
 url: /self-help-desk
 type: page
 appid: 1551052586

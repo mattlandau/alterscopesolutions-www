@@ -2,7 +2,7 @@
 title: "Kanban AR"
 date: 2023-06-06T22:51:09-04:00
 draft: false
-tags: ["iOS", "AR", "Spatial Computing", "My App With The Most Potential"]
+tags: ["iOS", "AR", "Spatial Computing", "Our App With The Most Potential"]
 url: /kanban-ar
 type: page
 appid: 6449599315
@@ -32,4 +32,4 @@ Key Features:
 
 Unlock your potential with Kanban AR—a groundbreaking app spatial that brings the power of augmented reality to your task management journey. Experience a new level of efficiency, collaboration, and organization. Download Kanban AR now and embrace the future of productivity!
 
-Now available on the [App Store](https://apps.apple.com/us/app/kanban-ar/id6449599315)
+Now available on the [App Store](https://apps.apple.com/us/app/kanban-ar/id6449599315)!

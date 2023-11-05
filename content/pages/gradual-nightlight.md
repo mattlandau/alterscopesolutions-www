@@ -28,4 +28,4 @@ Here's why you'll love our app:
 
 We've designed this app with parents like you in mind, so you can focus on your child, not the lighting. Say hello to reduced-stress bedtimes with our app!
 
-Now available on the [App Store](https://apps.apple.com/us/app/gradual-nightlight/id6468366809)
+Now available on the [App Store](https://apps.apple.com/us/app/gradual-nightlight/id6468366809)!

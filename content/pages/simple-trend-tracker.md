@@ -3,7 +3,7 @@ title: "Simple Trend Tracker"
 date: 2023-03-27T23:10:34-04:00
 draft: false
 url: /simple-trend-tracker
-tags: ["iOS", "Self Improvement", "My Most Generic App"]
+tags: ["iOS", "Self Improvement", "Our Most Generic App"]
 type: page
 appid: 6446156353
 isapp: true
