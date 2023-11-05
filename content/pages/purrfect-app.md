@@ -3,7 +3,7 @@ title: "Purrfect App"
 date: 2023-01-15T23:18:48-05:00
 draft: false
 url: /purrfect-app
-tags: ["iOS", "My Most Fun App"]
+tags: ["iOS", "Our Most Fun App"]
 type: page
 appid: 6444394341
 summary: The Purrfect App will bring you instant relaxation using your phone’s vibration motor to simulate a purring cat. Sit back, relax, and enjoy a gentle purr…

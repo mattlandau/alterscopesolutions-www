@@ -3,7 +3,7 @@ title: "Gradual Nightlight"
 date: 2023-10-11T14:12:06-04:00
 draft: false
 url: /gradual-nightlight
-tags: ["iOS", "Parenting", "My Most Beautiful App"]
+tags: ["iOS", "Parenting", "Our Most Beautiful App"]
 appid: 6468366809
 type: page
 summary: Transform bedtime for your toddlers with our app! As a parent, I understand the bedtime challenge, which is why I created this app to make it easier for all of us. Use your phone as a reading light during story time and a nightlight for bedtime. What sets our app apart is its gradual screen dimming, ensuring a smooth transition from reading to sleep. Here's why you'll love our app…
