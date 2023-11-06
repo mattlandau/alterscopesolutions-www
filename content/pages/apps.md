@@ -11,5 +11,6 @@ menu:
     weight: 1
 ---
 
+Alphabetical List
 {{< hr >}}
-{{< my-apps-ul-summary >}}
+{{< my-apps-ul-summary-alphabetical >}}
