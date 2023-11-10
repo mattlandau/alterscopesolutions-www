@@ -1,0 +1,40 @@
+<!-- Author: Parsia Hakimian https://github.com/parsiya/Hugo-Shortcodes -->
+<!-- relref helper for my blog
+
+    Note: This adds text to the input params to create a relref link for my
+    blog. You might need to modify it to make it work for you.
+
+    Path: passed to the relref link so it will panic if the path does not exist.
+    Anchor: Optional. No need to include "#" but if included it will not
+    introduce a bug. The shortcode trims it and adds its own.
+    Text: Optional. Text of the link. If not provided, the actual link will be
+    the title. I.e., .Site.BaseURL/$relreflink.
+    title: Optional. Mouse tooltip when you hover over the link or the link or
+    the "title" attribute for the link.
+-->
+
+<!-- support for both named and positional arguments. -->
+
+{{ $path := "" }}
+{{ $anchor := "" }}
+{{ $text := "" }}
+{{ $title := "" }}
+
+{{ if .IsNamedParams }}
+<!-- named version -->
+{{ $path = .Get "path" }}
+{{ $anchor = .Get "anchor" }}
+{{ $text = .Get "text" }}
+{{ $title = .Get "title" }}
+{{ else }}
+<!-- positional version -->
+{{ $path = .Get 0 }}
+{{ $text = .Get 1 }}
+{{ $title = .Get 2 }}
+{{ $anchor = .Get 3 }}
+{{ end }}
+
+
+<!-- the final link should look like this -->
+<!-- <a href="path-from-relref" title="title" rel="nofollow" target="_blank">text</a> -->
+<a href="{{ $path }}" title="{{ $title }}" rel="nofollow" target="_blank" class="light-blue">{{ $text }}</a>

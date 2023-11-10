@@ -19,4 +19,4 @@ aliases:
 
 Easily record the numbers that matter to you and quickly spot trends over time. Our app allows you to track data, such as calories, minutes of activity, hours with a client, and much more. And the values are easy to see on a dynamically updating chart. Download now and gain insight into your life!
 
-Now available on the [App Store](https://apps.apple.com/us/app/simple-trend-tracker/id6446156353)!
+Now available on the {{< mylink path="https://apps.apple.com/us/app/simple-trend-tracker/id6446156353" text="App Store" >}}!

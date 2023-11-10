@@ -26,4 +26,4 @@ So why wait? Download Proximity Sense AR today and start exploring the world aro
 
 Note, for technical reference, the vibration frequency scales down from 100 Hz to the inverse of the third power of the distance out to 4 meters, intensity is proportional to rate of change of distance, and vertical surfaces (e.g. walls) have a 4 Hz pattern overlaid on the main pattern in order to provide category information.
 
-Now available on the [App Store](https://apps.apple.com/us/app/proximity-sense-ar/id1662224416)!
+Now available on the {{< mylink path="https://apps.apple.com/us/app/proximity-sense-ar/id1662224416" text="App Store" >}}!

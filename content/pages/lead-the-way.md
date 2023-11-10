@@ -24,4 +24,4 @@ Lead The Way is perfect for exploring neighborhoods, finding your way around a n
 
 So why wait? Download Lead The Way today and start exploring the world around you like never before!
 
-Now available on the [App Store](https://apps.apple.com/us/app/gamma-40-hertz/id6444816102)!
+Now available on the {{< mylink path="https://apps.apple.com/us/app/gamma-40-hertz/id6444816102" text="App Store" >}}!

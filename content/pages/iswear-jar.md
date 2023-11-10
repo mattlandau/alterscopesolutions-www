@@ -29,4 +29,4 @@ Features include:
 
 Download it today and start making big changes now!
 
-Now available on the [App Store](https://apps.apple.com/us/app/iswear-jar/id1633852599)!
+Now available on the {{< mylink path="https://apps.apple.com/us/app/iswear-jar/id1633852599" text="App Store" >}}!

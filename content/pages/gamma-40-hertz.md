@@ -25,4 +25,4 @@ Features:
 - 40 hertz haptic vibration
 - 40 hertz visual signal using your device’s flash
 
-Now available on the [App Store](https://apps.apple.com/us/app/gamma-40-hertz/id6444579052)!
+Now available on the {{< mylink path="https://apps.apple.com/us/app/gamma-40-hertz/id6444579052" text="App Store" >}}!

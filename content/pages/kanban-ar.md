@@ -32,4 +32,4 @@ Key Features:
 
 Unlock your potential with Kanban AR—a groundbreaking app spatial that brings the power of augmented reality to your task management journey. Experience a new level of efficiency, collaboration, and organization. Download Kanban AR now and embrace the future of productivity!
 
-Now available on the [App Store](https://apps.apple.com/us/app/kanban-ar/id6449599315)!
+Now available on the {{< mylink path="https://apps.apple.com/us/app/kanban-ar/id6449599315" text="App Store" >}}!

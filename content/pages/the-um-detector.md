@@ -22,4 +22,4 @@ The Um Detector listens for when you say any these words and/or phrases: â€œum,â
 
 The free version of this app allows you to use it for 5 minutes per day.
 
-Available now on the [App Store](https://apps.apple.com/us/app/the-um-detector/id1566958588)!
+Available now on the {{< mylink path="https://apps.apple.com/us/app/the-um-detector/id1566958588" text="App Store" >}}!

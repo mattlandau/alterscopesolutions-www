@@ -30,4 +30,4 @@ You can use this app to:
 - Listen from a new perspective
 - Give yourself guidance
 
-Now available on the [App Store](https://apps.apple.com/us/app/self-help-desk/id1551052586)!
+Now available on the {{< mylink path="https://apps.apple.com/us/app/self-help-desk/id1551052586" text="App Store" >}}!

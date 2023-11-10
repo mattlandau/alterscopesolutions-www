@@ -21,4 +21,4 @@ The Purrfect App brings you easy relaxation. using your phone's vibration motor 
 
 PS Your cat might enjoy it, too!
 
-Available on the [App Store](https://apps.apple.com/us/app/purrfect-app/id6444394341)!
+Available on the {{< mylink path="https://apps.apple.com/us/app/purrfect-app/id6444394341" text="App Store" >}}!
