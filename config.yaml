@@ -6,3 +6,5 @@ paginate: 20
 
 params:
   favicon: "favicon.ico"
+  body_classes: "avenir bg-near-black"
+  text_color: "white"
