@@ -16,9 +16,11 @@
     
 
     
-<link rel="stylesheet" href="/ananke/css/main.min.2438bcafd7af9675c426d1a4afcd16cfff18e4e10f401071e45b5ccd3be40a0d.css" >
+<link rel="stylesheet" href="/ananke/css/main.min.125d88ad1d8edad8e8a5de1ff5c3d45958a50a68383475fe8e01d6f68fc4875c.css" >
 
 
+
+  
 
     
     
@@ -63,6 +65,7 @@
         Alterscope Solutions LLC
       
     </a>
+    <div>
     <div class="flex-l items-center">
       
 
@@ -89,7 +92,17 @@
           
         </ul>
       
-
+    </div>
+    <div id="mypagefind" class="items-center center">
+      <link href="/styles/pagefind-ui-custom.css" rel="stylesheet">
+      <script src="/pagefind/pagefind-ui.js"></script>
+      <div id="search"></div>
+      <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search", showSubResults: true, resetStyles: false });
+        });
+      </script>
+    </div>
     </div>
   </div>
 </nav>

@@ -7,6 +7,7 @@
         {{ .Site.Title }}
       {{ end }}
     </a>
+    <div>
     <div class="flex-l items-center">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
@@ -20,7 +21,17 @@
           {{ end }}
         </ul>
       {{ end }}
-
+    </div>
+    <div id="mypagefind" class="items-center center">
+      <link href="/styles/pagefind-ui-custom.css" rel="stylesheet">
+      <script src="/pagefind/pagefind-ui.js"></script>
+      <div id="search"></div>
+      <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search", showSubResults: true, resetStyles: false });
+        });
+      </script>
+    </div>
     </div>
   </div>
 </nav>

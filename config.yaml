@@ -8,3 +8,4 @@ params:
   favicon: "favicon.ico"
   body_classes: "avenir bg-near-black"
   text_color: "white"
+  custom_css: ["custom.css"]
