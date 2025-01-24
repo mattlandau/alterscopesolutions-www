@@ -2,208 +2,172 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alterscope Solutions LLC</title>
-    <link>https://alterscopesolutions.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Alterscope Solutions LLC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 21:54:01 -0400</lastBuildDate><atom:link href="https://alterscopesolutions.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2025 22:42:51 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>iOS</title>
-      <link>https://alterscopesolutions.com/tags/ios/</link>
-      <pubDate>Mon, 03 Jun 2024 21:54:01 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/ios/</guid>
+      <title>IOS</title>
+      <link>http://localhost:1313/tags/ios/</link>
+      <pubDate>Thu, 23 Jan 2025 22:42:51 -0500</pubDate>
+      <guid>http://localhost:1313/tags/ios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lifestyle</title>
-      <link>https://alterscopesolutions.com/tags/lifestyle/</link>
-      <pubDate>Mon, 03 Jun 2024 21:54:01 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/lifestyle/</guid>
+      <link>http://localhost:1313/tags/lifestyle/</link>
+      <pubDate>Thu, 23 Jan 2025 22:42:51 -0500</pubDate>
+      <guid>http://localhost:1313/tags/lifestyle/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Our Quirkiest App</title>
+      <link>http://localhost:1313/tags/our-quirkiest-app/</link>
+      <pubDate>Thu, 23 Jan 2025 22:42:51 -0500</pubDate>
+      <guid>http://localhost:1313/tags/our-quirkiest-app/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Our Most Futuristic App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-futuristic-app/</link>
+      <link>http://localhost:1313/tags/our-most-futuristic-app/</link>
       <pubDate>Mon, 03 Jun 2024 21:54:01 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-futuristic-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-futuristic-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Ambitious App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-ambitious-app/</link>
+      <link>http://localhost:1313/tags/our-most-ambitious-app/</link>
       <pubDate>Wed, 03 Jan 2024 21:41:15 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-ambitious-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-ambitious-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Parenting</title>
-      <link>https://alterscopesolutions.com/tags/parenting/</link>
+      <link>http://localhost:1313/tags/parenting/</link>
       <pubDate>Wed, 03 Jan 2024 21:41:15 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/parenting/</guid>
+      <guid>http://localhost:1313/tags/parenting/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Beautiful App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-beautiful-app/</link>
+      <link>http://localhost:1313/tags/our-most-beautiful-app/</link>
       <pubDate>Wed, 11 Oct 2023 14:12:06 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-beautiful-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-beautiful-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AR</title>
-      <link>https://alterscopesolutions.com/tags/ar/</link>
+      <link>http://localhost:1313/tags/ar/</link>
       <pubDate>Tue, 06 Jun 2023 22:51:09 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/ar/</guid>
+      <guid>http://localhost:1313/tags/ar/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Our App With The Most Potential</title>
-      <link>https://alterscopesolutions.com/tags/our-app-with-the-most-potential/</link>
+      <title>Our App With the Most Potential</title>
+      <link>http://localhost:1313/tags/our-app-with-the-most-potential/</link>
       <pubDate>Tue, 06 Jun 2023 22:51:09 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-app-with-the-most-potential/</guid>
+      <guid>http://localhost:1313/tags/our-app-with-the-most-potential/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Spatial Computing</title>
-      <link>https://alterscopesolutions.com/tags/spatial-computing/</link>
+      <link>http://localhost:1313/tags/spatial-computing/</link>
       <pubDate>Tue, 06 Jun 2023 22:51:09 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/spatial-computing/</guid>
+      <guid>http://localhost:1313/tags/spatial-computing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Generic App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-generic-app/</link>
+      <link>http://localhost:1313/tags/our-most-generic-app/</link>
       <pubDate>Mon, 27 Mar 2023 23:10:34 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-generic-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-generic-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Self Improvement</title>
-      <link>https://alterscopesolutions.com/tags/self-improvement/</link>
+      <link>http://localhost:1313/tags/self-improvement/</link>
       <pubDate>Mon, 27 Mar 2023 23:10:34 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/self-improvement/</guid>
+      <guid>http://localhost:1313/tags/self-improvement/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Misunderstood App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-misunderstood-app/</link>
+      <link>http://localhost:1313/tags/our-most-misunderstood-app/</link>
       <pubDate>Mon, 16 Jan 2023 13:44:38 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-misunderstood-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-misunderstood-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Haptics</title>
-      <link>https://alterscopesolutions.com/tags/haptics/</link>
+      <link>http://localhost:1313/tags/haptics/</link>
       <pubDate>Sun, 15 Jan 2023 23:20:42 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/haptics/</guid>
+      <guid>http://localhost:1313/tags/haptics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Experimental App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-experimental-app/</link>
+      <link>http://localhost:1313/tags/our-most-experimental-app/</link>
       <pubDate>Sun, 15 Jan 2023 23:20:42 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-experimental-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-experimental-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Obvious App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-obvious-app/</link>
+      <link>http://localhost:1313/tags/our-most-obvious-app/</link>
       <pubDate>Sun, 15 Jan 2023 23:20:08 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-obvious-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-obvious-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Healthful App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-healthful-app/</link>
+      <link>http://localhost:1313/tags/our-most-healthful-app/</link>
       <pubDate>Sun, 15 Jan 2023 23:19:31 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-healthful-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-healthful-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Fun App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-fun-app/</link>
+      <link>http://localhost:1313/tags/our-most-fun-app/</link>
       <pubDate>Sun, 15 Jan 2023 23:18:48 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-fun-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-fun-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Useful App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-useful-app/</link>
+      <link>http://localhost:1313/tags/our-most-useful-app/</link>
       <pubDate>Sun, 15 Jan 2023 23:17:51 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-useful-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-useful-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Complex App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-complex-app/</link>
+      <link>http://localhost:1313/tags/our-most-complex-app/</link>
       <pubDate>Sun, 15 Jan 2023 23:16:17 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-complex-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-complex-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Oculus Go</title>
-      <link>https://alterscopesolutions.com/tags/oculus-go/</link>
+      <link>http://localhost:1313/tags/oculus-go/</link>
       <pubDate>Sun, 15 Jan 2023 23:10:46 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/oculus-go/</guid>
+      <guid>http://localhost:1313/tags/oculus-go/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Our Most Thought Provoking App</title>
-      <link>https://alterscopesolutions.com/tags/our-most-thought-provoking-app/</link>
+      <link>http://localhost:1313/tags/our-most-thought-provoking-app/</link>
       <pubDate>Sun, 15 Jan 2023 23:10:46 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/our-most-thought-provoking-app/</guid>
+      <guid>http://localhost:1313/tags/our-most-thought-provoking-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VR</title>
-      <link>https://alterscopesolutions.com/tags/vr/</link>
+      <link>http://localhost:1313/tags/vr/</link>
       <pubDate>Sun, 15 Jan 2023 23:10:46 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/tags/vr/</guid>
+      <guid>http://localhost:1313/tags/vr/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

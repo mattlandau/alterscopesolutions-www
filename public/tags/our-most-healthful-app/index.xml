@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Most Healthful App on Alterscope Solutions LLC</title>
-    <link>https://alterscopesolutions.com/tags/our-most-healthful-app/</link>
+    <link>http://localhost:1313/tags/our-most-healthful-app/</link>
     <description>Recent content in Our Most Healthful App on Alterscope Solutions LLC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2023 23:19:31 -0500</lastBuildDate><atom:link href="https://alterscopesolutions.com/tags/our-most-healthful-app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Jan 2023 23:19:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/our-most-healthful-app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gamma 40 Hertz</title>
-      <link>https://alterscopesolutions.com/gamma-40-hertz/</link>
+      <link>http://localhost:1313/gamma-40-hertz/</link>
       <pubDate>Sun, 15 Jan 2023 23:19:31 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/gamma-40-hertz/</guid>
+      <guid>http://localhost:1313/gamma-40-hertz/</guid>
       <description>The Gamma 40 Hertz app gives you access to a quick brain boost. Some recent research suggests that 40 hertz gamma brain waves decline with age and that reversing the decline can be helpful. This app stimulates 40 hertz gamma waves through light, sound, and touch…</description>
     </item>
-    
   </channel>
 </rss>

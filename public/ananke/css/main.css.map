@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/matt/AlterscopeSolutionsLLC/alterscopesolutions-www",
+	"sourceRoot": "/Users/matthewlandau/Documents/AlterscopeSolutionsLLC/alterscopesolutions-www",
 	"sources": [
 		"ananke/css/main.css"
 	],

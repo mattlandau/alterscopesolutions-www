@@ -35,4 +35,4 @@ Features:
 Why What If...?
 What If.. is a companion for planning your life. It’s a blend of technology and imagination, providing a creative outlook on what might be. Perfect for dreamers, doubters, and everyone in between.
 
-Available soon on the App Store!
+Available as a private beta -- please use contact me [here](/contact) for an invitation!

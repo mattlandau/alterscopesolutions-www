@@ -2,55 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self Improvement on Alterscope Solutions LLC</title>
-    <link>https://alterscopesolutions.com/tags/self-improvement/</link>
+    <link>http://localhost:1313/tags/self-improvement/</link>
     <description>Recent content in Self Improvement on Alterscope Solutions LLC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Mar 2023 23:10:34 -0400</lastBuildDate><atom:link href="https://alterscopesolutions.com/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 23:10:34 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simple Trend Tracker</title>
-      <link>https://alterscopesolutions.com/simple-trend-tracker/</link>
+      <link>http://localhost:1313/simple-trend-tracker/</link>
       <pubDate>Mon, 27 Mar 2023 23:10:34 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/simple-trend-tracker/</guid>
+      <guid>http://localhost:1313/simple-trend-tracker/</guid>
       <description>Easily record the numbers that matter to you and quickly spot trends over time. Our app allows you to track data, such as calories, minutes of activity, hours with a client, and much more. And the values are easy to see on a dynamically updating chart…</description>
     </item>
-    
     <item>
       <title>iSwear Jar</title>
-      <link>https://alterscopesolutions.com/iswear-jar/</link>
+      <link>http://localhost:1313/iswear-jar/</link>
       <pubDate>Mon, 16 Jan 2023 13:44:38 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/iswear-jar/</guid>
+      <guid>http://localhost:1313/iswear-jar/</guid>
       <description>The iSwear Jar gives you the power to create or destroy any habit. Simply imagine a dollar bill being thinly sliced by a paper shredder, turning cool cash into green slivers&amp;hellip; Then imagine that dollar bill was yours, and that you surrendered it as a penalty for slipping up…</description>
     </item>
-    
     <item>
       <title>Gamma 40 Hertz</title>
-      <link>https://alterscopesolutions.com/gamma-40-hertz/</link>
+      <link>http://localhost:1313/gamma-40-hertz/</link>
       <pubDate>Sun, 15 Jan 2023 23:19:31 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/gamma-40-hertz/</guid>
+      <guid>http://localhost:1313/gamma-40-hertz/</guid>
       <description>The Gamma 40 Hertz app gives you access to a quick brain boost. Some recent research suggests that 40 hertz gamma brain waves decline with age and that reversing the decline can be helpful. This app stimulates 40 hertz gamma waves through light, sound, and touch…</description>
     </item>
-    
     <item>
       <title>The Um Detector</title>
-      <link>https://alterscopesolutions.com/the-um-detector/</link>
+      <link>http://localhost:1313/the-um-detector/</link>
       <pubDate>Sun, 15 Jan 2023 23:17:51 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/the-um-detector/</guid>
+      <guid>http://localhost:1313/the-um-detector/</guid>
       <description>Do you want to improve your speaking? Do find yourself yourself overusing filler words? This app will help you break the habit and speak more confidently. The Um Detector listens for when you say any these words…</description>
     </item>
-    
     <item>
       <title>The Alterscope</title>
-      <link>https://alterscopesolutions.com/the-alterscope/</link>
+      <link>http://localhost:1313/the-alterscope/</link>
       <pubDate>Sun, 15 Jan 2023 23:10:46 -0500</pubDate>
-      
-      <guid>https://alterscopesolutions.com/the-alterscope/</guid>
+      <guid>http://localhost:1313/the-alterscope/</guid>
       <description>In this simulation, you begin by selecting a conversation partner. The conversation starts when you record a question or statement. You are then transported into the perspective of your conversation partner, where you can listen and respond to what was said. Continue the conversation…</description>
     </item>
-    
   </channel>
 </rss>

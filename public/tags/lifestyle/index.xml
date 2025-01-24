@@ -2,19 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lifestyle on Alterscope Solutions LLC</title>
-    <link>https://alterscopesolutions.com/tags/lifestyle/</link>
+    <link>http://localhost:1313/tags/lifestyle/</link>
     <description>Recent content in Lifestyle on Alterscope Solutions LLC</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 21:54:01 -0400</lastBuildDate><atom:link href="https://alterscopesolutions.com/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2025 22:42:51 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Say It, See It</title>
+      <link>http://localhost:1313/say-it-see-it/</link>
+      <pubDate>Thu, 23 Jan 2025 22:42:51 -0500</pubDate>
+      <guid>http://localhost:1313/say-it-see-it/</guid>
+      <description>Introducing Say It, See It, the revolutionary app that &lt;strong&gt;transcribes your speech&lt;/strong&gt; and transforms your ideas into &lt;strong&gt;AI-generated images&lt;/strong&gt;! Speak, imagine, and watch your words come to life like never before&amp;hellip;</description>
+    </item>
     <item>
       <title>What If...</title>
-      <link>https://alterscopesolutions.com/what-if/</link>
+      <link>http://localhost:1313/what-if/</link>
       <pubDate>Mon, 03 Jun 2024 21:54:01 -0400</pubDate>
-      
-      <guid>https://alterscopesolutions.com/what-if/</guid>
+      <guid>http://localhost:1313/what-if/</guid>
       <description>Welcome to What If, the app where your curiosity about the future meets the power of AI storytelling. Unveil a world of endless possibilities of personalized narratives of what lies ahead&amp;hellip;</description>
     </item>
-    
   </channel>
 </rss>
