@@ -1,21 +1,21 @@
 ---
-title: "Say It, See It"
+title: "Conversee"
 date: 2025-01-23T22:42:51-05:00
 draft: false
-url: /say-it-see-it
+url: /conversee
 tags: ["iOS", "Lifestyle", "Our Quirkiest App"]
 type: page
-summary: Introducing Say It, See It, the revolutionary app that **transcribes your speech** and transforms your ideas into **AI-generated images**! Speak, imagine, and watch your words come to life like never before...
+summary: Introducing Conversee, the revolutionary app that **transcribes your speech** and transforms your ideas into **AI-generated images**! Speak, imagine, and watch your words come to life like never before...
 isapp: true
 aliases:
-  - /say-it-see-it
+  - /conversee
 ---
 
 {{< tags >}}
 
-![Say It, See It](/images/say-it-see-it-icon.png)
+![Conversee](/images/conversee-icon.png)
 
-Introducing Say It, See It, the revolutionary app that **transcribes your speech** and transforms your ideas into **AI-generated images**! Speak, imagine, and watch your words come to life like never before.
+Introducing Conversee, the revolutionary app that **transcribes your speech** and transforms your ideas into **AI-generated images**! Speak, imagine, and watch your words come to life like never before.
 
 **How It Works:**
 1. **Speak Freely:** Tap the transcribe button and start talking or join a conversation.
@@ -28,4 +28,4 @@ Introducing Say It, See It, the revolutionary app that **transcribes your speech
 -  **Save Your Creations:** Keep your favorite transcriptions and images in your gallery.
 -  **Endless Possibilities:** From inspirational quotes to fantasy landscapes, bring any vision to life.
 
-Whether you're a content creator, artist, storyteller, or just love experimenting with AI, **Say It, See It** is the perfect tool to unleash your imagination.
+Whether you're a content creator, artist, storyteller, or just love experimenting with AI, **Conversee** is the perfect tool to unleash your imagination.
