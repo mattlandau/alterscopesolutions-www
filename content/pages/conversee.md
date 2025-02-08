@@ -28,4 +28,4 @@ Introducing Conversee, the revolutionary app that **transcribes your speech** an
 -  **Save Your Creations:** Keep your favorite transcriptions and images in your gallery.
 -  **Endless Possibilities:** From inspirational quotes to fantasy landscapes, bring any vision to life.
 
-Whether you're a content creator, artist, storyteller, or just love experimenting with AI, **Conversee** is the perfect tool to unleash your imagination.
+Whether you're a content creator, artist, storyteller, or just love experimenting with AI, **Conversee** is the perfect tool to unleash your imagination. Download it on the {{< mylink path="https://apps.apple.com/us/app/conversee/id6590604742" text="App Store" >}}!
