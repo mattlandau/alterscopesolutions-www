@@ -3,7 +3,8 @@ title: "Big Kid Numbers"
 date: 2025-02-07T22:30:51-05:00
 draft: false
 url: /big-kid-numbers
-tags: ["iOS", "Education", "Our Smartest App"]
+tags: ["iOS", "Education", "Parenting", "Our Smartest App"]
+appid: 6741135338
 type: page
 summary: Give your little one a head start in math with Big Kid Numbers, the fun and engaging way for toddlers and young kids to explore numbers and place value!
 isapp: true
@@ -32,4 +33,4 @@ Features:
 * Encourages hands-on exploration of numbers
 * Perfect for preschoolers and early elementary learners
 
-Download Place Value Playground today and help your child build a strong foundation in math! Coming soon!
+Download Place Value Playground today and help your child build a strong foundation in math! Now available on the {{< mylink path="https://apps.apple.com/us/app/big-kid-numbers/id6741135338" atext="App Store" >}}!

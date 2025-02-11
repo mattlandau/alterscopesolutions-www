@@ -4,6 +4,7 @@ date: 2025-01-23T22:42:51-05:00
 draft: false
 url: /conversee
 tags: ["iOS", "Lifestyle", "Our Quirkiest App"]
+appid: 6590604742 
 type: page
 summary: Introducing Conversee, the revolutionary app that **transcribes your speech** and transforms your ideas into **AI-generated images**! Speak, imagine, and watch your words come to life like never before...
 isapp: true
